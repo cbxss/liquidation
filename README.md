@@ -1,5 +1,9 @@
 # liquidation
 Quick userscript to automate product searching.
+## Authors / Contributors
+
+* Shayne H. - [https://github.com/ShayBox](https://github.com/ShayBox)
+* Sebastian V. - [https://github.com/cbass5](https://github.com/cbass5)
 ## Installation
 1. Install the Tampermonkey (Chrome) extension for your browser.
 2. Click [here](https://github.com/cbass5/liquidation/raw/master/Liquidation.user.js) to install the script.
