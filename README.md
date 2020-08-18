@@ -14,4 +14,7 @@ Quick userscript to automate product searching.
 - Automate search for Amazon and Ebay
 - averages prices from Ebay
 - uses jaro-winkler alfgorithm for Amazon search
+
+## Examples: 
+
 <img width="658" alt="screen" src="https://user-images.githubusercontent.com/44591891/90547448-64971180-e140-11ea-83c0-7372db28b949.PNG">
