@@ -12,8 +12,8 @@ Quick userscript to automate product searching.
 - If a price looks weird, you can click the links provided. 
 ## Current Features:
 - Automate search for Amazon and Ebay
-- averages prices from Ebay
-- uses jaro-winkler alfgorithm for Amazon search
+- Averages prices from Ebay
+- Uses jaro-winkler algorithm for Amazon search
 
 ## Examples: 
 
